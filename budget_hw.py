@@ -30,3 +30,20 @@ if expenses < budget:
 
 if expenses == budget: 
   print('Your budget was equal to expenses!')
+
+""""""
+#Running the script, prints:
+Enter amount budgeted for a month: 1000
+Type 0 to finish entering expenses
+
+Enter each of your expenses for the month: 550
+Enter each of your expenses for the month: 250
+Enter each of your expenses for the month: 250
+Enter each of your expenses for the month: 100
+Enter each of your expenses for the month: 0
+
+Budget:  1000
+Expenses:  1150.0
+
+You were over budget by:  150.0
+""""""
