@@ -1,3 +1,3 @@
 # csuglobal_hw
 
-Collection of homework from csuglobal
+Collection of exemplary homework from csuglobal
